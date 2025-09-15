@@ -1,5 +1,5 @@
 
-# depthSS
+# DepthSS
 # Project: Remote Sensing Image Semantic Segmentation based on HRNet with our depthSS
 
 
