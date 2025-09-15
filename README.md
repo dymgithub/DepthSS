@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # depthSS
-=======
 # Project: Remote Sensing Image Semantic Segmentation based on HRNet with our depthSS
 
 
@@ -115,4 +114,4 @@ python predict.py config.py \
 ## 5. Validation Visualization
 
 During the training process, validation is performed every `val_interval` iterations (set to 2000 in `config.py`). The visualization results for the first 5 images of each validation run—which include the original image, ground truth, prediction, and normal map—are automatically saved to the `work_dirs/val_visualizations/` directory. This allows for convenient and periodic monitoring of the model's performance.
->>>>>>> b92df31 (first commit)
+
