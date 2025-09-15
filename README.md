@@ -1,6 +1,4 @@
-
-# DepthSS
-# Project: Remote Sensing Image Semantic Segmentation based on HRNet with our depthSS
+# A Depth-Aware Semantic Enhancement Network for Semantic Segmentation in Remote Sensing Images
 
 
 ## Project Structure
