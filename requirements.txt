@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Core Dependencies
+# Please note that the versions of torch, mmcv, mmengine, and mmsegmentation must be compatible.
+# It is highly recommended to use MIM for installation to ensure this compatibility.
+
+# Basic Python Libraries
+numpy
+matplotlib
+opencv-python-headless
+Pillow
+
+# MMLab Dependencies (version numbers are for reference)
+mmengine>=0.7.0
+mmcv>=2.0.0
+mmsegmentation>=1.0.0
