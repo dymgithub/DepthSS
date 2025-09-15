@@ -4,7 +4,7 @@
 ## Project Structure
 
 ```
-your-project-name/
+DepthSS/
 ├── core/                  # Contains all custom modules (models, data transforms, etc.)
 ├── data/                  # Directory for datasets
 ├── work_dirs/             # Directory to save training logs and model weights
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 This project requires images, their corresponding segmentation annotations, and pre-generated normal vector maps. Please organize your dataset according to the following directory structure:
 
 ```
-your-project-name/
+DepthSS/
 └── data/
     ├── vaihingen/
     │   ├── img_dir/
